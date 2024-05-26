@@ -1,3 +1,4 @@
+![](DL.jpeg)
 # SEM Lab Session
 
 ## Environment setup
